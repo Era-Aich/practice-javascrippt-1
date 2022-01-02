@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    height: 100px;
+    width: 100%;
+    background-color: blueviolet;
+}
+
+main{
+    height: 68vh;
+    width: 100%;
+    background-color: #ccc;
+}
+
+footer{
+    height: 100px;
+    width: 100%;
+    background-color: blueviolet;
+}
+
+.btn{
+    width: 200px;
+    height: 52px;
+    color: cornflowerblue;
+    border-radius: 20px;
+}
+
+.btn:hover{
+    border: 2px solid black;
+}
+
+.red{
+    background-color: red;
+}
+.blue{
+    border-color:blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+
+    margin: 40px;
+}
